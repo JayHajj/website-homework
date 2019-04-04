@@ -39,6 +39,7 @@ footer {
 
 /* Black buttons with extra padding and without rounded borders */
 .btn {
+  margin-top: 15px;
   padding: 10px 20px;
   background-color: #333;
   color: #f1f1f1;
